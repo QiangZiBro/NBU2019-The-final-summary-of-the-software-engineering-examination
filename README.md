@@ -26,7 +26,7 @@
 :book: 重点内容
 --------------
 
-:point_right:  **Chapter 1**
+## Chapter 1 :point_left:
 
 * 软工三要素：工具、方法、过程（理解含义），举例子说明。
 
@@ -47,14 +47,14 @@
 * 模型推动体系结构的概念（选择/判断）
 
 
-:point_right:  **Chapter 2**
+## Chapter 2 :point_left:
 
 * 面对对象的分析设计
 
 * **结构化分析（方法）、数据流图** :boom:
 
 
-:point_right:  **Chapter 3**
+## Chapter 3 :point_left:
 
 * 软件设计基础的PPT前两张 3.1 .3.2
 
@@ -69,7 +69,7 @@
 * 软件设计的一般过程
 
 
-:point_right:  **Chapter 4 模式设计题型（学生讲解的PPT）** :boom:
+## Chapter 2 :boom:
 
 * **主要是：桥模式、观察者模式、组合模式、代理和适配器模式...**
 
