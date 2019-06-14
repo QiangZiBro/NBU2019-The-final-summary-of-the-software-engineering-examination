@@ -46,4 +46,12 @@
 
 :point_right:  **Chapter 2**
 
+* 面对对象的分析设计
+
+* **结构化分析（方法）、数据流图** :boom:
+
+:point_right:  **Chapter 3**
+
+
+
 
